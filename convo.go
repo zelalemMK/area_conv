@@ -5,7 +5,7 @@ func KMSquaredToAcre(k KMeterSquared) Acre {
 }
 
 func AcreToKMSquared(a Acre) KMeterSquared {
-	return KMeterSquared(a / 204.105)
+	return KMeterSquared(a / 247.105)
 }
 
 func MToKSquared(m MeterSquared) KMeterSquared {
